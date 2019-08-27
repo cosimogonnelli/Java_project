@@ -1,0 +1,7 @@
+name1|website|topic1|address|useful
+name2|Linux tool|topic2|description|linux command
+name3|syntax map|topic3|c++ syntax|Java syntax
+name4|syntax map|topic3|c++ syntax|Java syntax
+name5|syntax map|topic1|c++ syntax|Java syntax
+name6|syntax map|topic1|c++ syntax|Java syntax
+name7|syntax map|topic1|c++ syntax|Java syntax
