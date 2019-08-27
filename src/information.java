@@ -7,9 +7,9 @@ class of type website, Linux tool or syntax map from it.
 
 // experimenting the use of abstract class in java.
 abstract class information {
-    private String name;
-    private String type;
-    private String topicName;
+    protected String name;
+    protected String type;
+    protected String topicName;
 
     // default constructor
     public information(){

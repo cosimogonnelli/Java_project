@@ -6,10 +6,10 @@ This is the CLL node that holds two arrays of information.
 
 public class c_node {
 
-    private c_node next;
-    private information[] array1;
-    private information[] array2;
-    private int index;
+    protected c_node next;
+    protected information[] array1;
+    protected information[] array2;
+    protected int index;
 
     // default constructor
     public c_node() {
