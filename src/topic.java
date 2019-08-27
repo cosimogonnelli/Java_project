@@ -66,7 +66,8 @@ public class topic {
     public int lDelete(String infoName){
         return lDelete(this.head, infoName);
     }
-    public int lDelete(l_node head, String infoName){
+    // Method to delete a specific information
+    protected int lDelete(l_node head, String infoName){
         if(head == null)
             return 0;
 
